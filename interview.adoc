@@ -8,9 +8,7 @@ v0.1, 2020-01-27
 
 为了避免给出的链接失效，我会先收藏网页到云笔记，再给出云笔记中的分享链接。一次完整的面试，包括面试前的充分准备、面试中的随时总结、面试后的 offer 选择。本文着重于面试前的准备，从技术和非技术两方面展开。面试中、面试后则会给出一些 tips。
 
-持续收集大概率好文，但未精读，待总结：
-
-https://mubu.com/doc6ilPZg9zY89[https://mubu.com/doc6ilPZg9zY89]
+持续收集大概率好文，但未精读，待总结：link:{https://mubu.com/doc6ilPZg9zY89}[https://mubu.com/doc6ilPZg9zY89]
 
 TIP: 面试中：
 
