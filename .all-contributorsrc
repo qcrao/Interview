@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "Janetyu",
+      "name": "janetyu",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/21353642?v=4",
+      "profile": "https://janetyu.github.io/",
+      "contributions": [
+        "maintenance"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "Interview",
+  "projectOwner": "qcrao",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
