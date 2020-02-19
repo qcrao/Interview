@@ -16,8 +16,12 @@
 
 # 一些小的 Tips：
 1. 英文、数字和中文之间用空格隔开。如使用 smtp 协议。
+2. 建议使用 `typora` 编辑，设置成`图片复制到 ./${filename}.assets 文件夹` 模式。
 
-## Contributors ✨
+
+
+
+# Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
