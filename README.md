@@ -14,6 +14,9 @@
 
 直接编辑 [./interview.adoc](https://github.com/qcrao/Interview/blob/master/interview.adoc) 文件
 
+# 一些小的 Tips：
+1. 英文、数字和中文之间用空格隔开。如使用 smtp 协议。
+
 ## Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
