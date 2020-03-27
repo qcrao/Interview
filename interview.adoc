@@ -98,4 +98,6 @@ HR：晋升体制、福利待遇、技术成长
 . 为什么写博客？
 . 对实际工作有什么帮助，例子？
 . 读 Go 源码有什么收获，体会？
+杨文-《Go 夜读分享》：https://docs.google.com/presentation/d/1-OPi5xZRm-RSnpDrT-6SdGF6srccqejkhYJrxwf278Q/edit#slide=id.p
+
 寻找开源软件的优点，不要盯着缺点，link:{https://mubu.com/document_image/f483a8db-3539-467c-acfd-eb0de11f3289-2793993.jpg}[caoz的梦呓]。比如曹大说的可以学到无锁化编程的技巧。
