@@ -89,10 +89,30 @@ int searchLastEqual(int *arr, int n, int key)
 
 === 数据库
 
+=== mq（答案：https://www.yuque.com/wuguoguoya/iq0d3v/anfu0e）
+* kafka
+. 项目中为何选择Kafka
+. 消息队列的优缺点
+. Kafka如何保证数据时序性
+. kafka如何保证数据不丢
+. 如何解决消息队列的延时以及过期失效问题？消息队列满了以后该怎么处理？有几百万消息持续积压几小时，说说怎么解决？
+. 如何设计一个消息队列(模仿kafka的实现，说出大致意思即可)
+
+
 ==== redis/codis
 
 ==== mysql
 * 事务的隔离级别有哪几种？
+* mvcc
+* B+树于B树的区别
+* 覆盖索引
+* 索引下沉
+* 事务两阶段提交 redolog  和binlog   bufferpool  顺序
+* MYSQL的两种存储引擎区别（事务、锁级别等等），各自的适用场景
+* 聚集索引和非聚集索引
+* 索引的优缺点，什么时候使用索引，什么时候不能使用索引
+* 索引下沉
+* 事务两阶段提交 redolog  和binlog   bufferpool  顺序
 
 === 中间件
 
