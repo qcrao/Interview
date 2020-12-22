@@ -4,43 +4,6 @@ v0.1, 2020-01-27
 :toc: left
 :homepage: http://qcrao.com
 
-这是一份面试前必须要看一遍的材料，非常重要，会持续更新。目的是梳理所有在面试过程中遇到的问题，要有总结。
-
-为了避免给出的链接失效，我会先收藏网页到云笔记，再给出云笔记中的分享链接。一次完整的面试，包括面试前的充分准备、面试中的随时总结、面试后的 offer 选择。本文着重于面试前的准备，从技术和非技术两方面展开。面试中、面试后则会给出一些 tips。
-
-持续收集大概率好文，但未精读，待总结：link:{https://mubu.com/colla/7nf3NaaL8B9}[https://mubu.com/colla/7nf3NaaL8B9]
-
-TIP: 面试中：
-
-TIP: 面试后：
-
-== 技术
-
-=== 数据结构 && 算法
-
-* https://www.evernote.com/shard/s659/sh/a750d92f-1427-4cc1-ad0d-adff53e6f745/672c57d36f4b86ca157e23d659f71352[二分法的变种]
-
-根据返回元素的位置（第一个还是最后一个），决定返回 left 索引还是 right 索引；在中间缩小判断范围的过程中，则根据要求排除不符合的元素，缩小 left 或 right 的范围。
-
-例如，找出最后一个与 key 相等的元素。
-
-```c
-int searchLastEqual(int *arr, int n, int key)
-{
-    int left = 0, right = n-1;
-    while(left<=right) {
-        int mid = (left+right)/2;
-        if(arr[mid] > key) right = mid - 1;
-        else if(arr[mid] <= key) left = mid + 1;
-    }
-    if( right >= 0 && arr[right] == key) return right;
-    return -1;
-}
-```
-
-要求最后一个相等，故返回 right 索引；中间进行判断的时候，将 key 与中间元素相比，如果中间元素大，则要移动 right 索引；最后，再判断 right 索引处的元素是否真的与 key 相等。
-
-* 十大排序
 
 === Go 语言
 * Go 为什么这么快？
