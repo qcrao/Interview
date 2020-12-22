@@ -63,7 +63,7 @@
 
 也可以关注公众号，和更多的人一起学习：
 
-![QR](https://user-images.githubusercontent.com/7698088/57526048-ebb2e280-735e-11e9-98dc-4a2cb060d0df
+![QR](https://user-images.githubusercontent.com/7698088/57526048-ebb2e280-735e-11e9-98dc-4a2cb060d0df.png)
 
 # Contributors ✨
 
