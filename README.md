@@ -57,6 +57,14 @@
 1. 英文、数字和中文之间用空格隔开。如使用 smtp 协议。
 2. 建议使用 `typora` 编辑，设置成`图片复制到 ./${filename}.assets 文件夹` 模式。
 
+# 学习交流
+
+你可以加我的微信一起交流：raoquancheng1991。
+
+也可以关注公众号，和更多的人一起学习：
+
+![QR](https://user-images.githubusercontent.com/7698088/57526048-ebb2e280-735e-11e9-98dc-4a2cb060d0df
+
 # Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
